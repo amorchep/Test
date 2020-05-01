@@ -1,4 +1,4 @@
-# x = 9 + git
+# x = 9 + 6
 # y = 9 + 5
 # a = x - y
 # sms = 'Connecting Users'
