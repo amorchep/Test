@@ -28,10 +28,9 @@ m = int(input('Exp - '))
 g = float(input('Dubl exp - '))
 
 x = m + g
+s = 'Exp: ' + str (x) + ' next level 12'
 
-Save = 'All exp: ', x, 'good job'
-s = str(Save)
-f = open('new.txt', 'w+')
+f = open('res.txt', 'w+')
 f.write(s)
 f.close()
 
