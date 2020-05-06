@@ -28,7 +28,7 @@ m = int(input('Exp - '))
 g = float(input('Dubl exp - '))
 
 x = m + g
-s = 'Exp: ' + str (x) + ' next level 12'
+s = 'Exp: ' + str (x) + ' next level 12a'
 
 f = open('res.txt', 'w+')
 f.write(s)

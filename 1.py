@@ -1,7 +1,7 @@
 # if __name__ == "__main__":
 import sys, pyowm
 from PyQt5 import QtCore, QtGui, QtWidgets
-from one import Ui_Dialog
+# from one import Ui_Dialog
 
 # Creat app
 app = QtWidgets.QApplication(sys.argv)
